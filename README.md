@@ -1,8 +1,8 @@
-# Fireworks Letter Game
+# Severance Text Processor
 
 ## Overview
 
-Fireworks Letter Game is an interactive Pygame application where users can collect letters that float around the screen and drop them into a trash can. The game features a dynamic and engaging interface with animations and collision detection.
+Severance Text Processor Letter Game is an interactive Pygame application where users can collect letters that float around the screen and drop them into a trash can. The game features a dynamic and engaging interface with animations and collision detection.
 
 ## Features
 
@@ -22,7 +22,7 @@ Fireworks Letter Game is an interactive Pygame application where users can colle
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/fireworks-letter-game.git
+   git clone https://github.com/Ber-g/severance-text-processor
    cd fireworks-letter-game
    ```
 
